@@ -1,0 +1,19 @@
+head(cabeçalho)
+body(corpo)
+title(titulo)
+p(paragrafo)
+/ pro fechamento
+break ou br nao necessita de fechamento
+<b> negrito
+<i> italico
+<u> sublinhado
+<p align=left> esquerda
+<p align= center> centro
+<p align=right> direita
+<p align= justify>
+<font> fonte tamanho cor da letra
+       face  sice    color
+<hr> linha horizontal
+<hx> titulo e subtitulo onde x é o nivel do titulo
+!-- comentar
+<pre> pra da espaço
